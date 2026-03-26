@@ -24,7 +24,7 @@ Je me spécialise dans la création de solutions performantes : automatisation d
 ---
 
 ## 🔥 Produit Phare : AutoFile Sorter
-Un moteur d'organisation automatique qui gère plus de 150 types de fichiers. C'est l'aboutissement de mon expertise en logique algorithmique appliquée aux systèmes de fichiers.
+Un moteur d'organisation automatique qui gère plus de 598 types de fichiers. C'est l'aboutissement de mon expertise en logique algorithmique appliquée aux systèmes de fichiers.
 
 💰 **Disponible sur :** [![Gumroad](https://img.shields.io/badge/Gumroad-36a9ae?style=for-the-badge&logo=gumroad&logoColor=white)](https://masterdanilson.gumroad.com/l/jyuorxc)
 
