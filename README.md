@@ -42,7 +42,7 @@ Un moteur d'organisation automatique qui gère plus de 598 types de fichiers. C'
 ## 📫 Me contacter
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](TON_LIEN_LINKEDIN)
-[![Gumroad](https://img.shields.io/badge/Gumroad-36a9ae?style=for-the-badge&logo=gumroad&logoColor=white)](TON_LIEN_GUMROAD)
+[![Gumroad](https://img.shields.io/badge/Gumroad-36a9ae?style=for-the-badge&logo=gumroad&logoColor=white)](https://masterdanilson.gumroad.com/)
 
 ---
 *“Automatiser le présent pour libérer le futur.”*
