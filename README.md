@@ -31,7 +31,6 @@ Un moteur d'organisation automatique qui gère plus de 598 types de fichiers. C'
 ---
 
 ## 📊 Statistiques GitHub
-
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=masterdanil&show_icons=true&theme=tokyonight&count_private=true" />
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masterdanil&layout=compact&theme=tokyonight&count_private=true" />
