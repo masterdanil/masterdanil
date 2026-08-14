@@ -1,47 +1,41 @@
-# 👋 Salut, moi c'est masterdanil 
+# 👋 Hi, I'm **masterdanil**
+### Backend Developer — Python
 
-### ⚙️ Automation Architect & Backend Developer
-Je me spécialise dans la création de solutions performantes : automatisation de flux de travail, traitement de données et architectures backend robustes en **Python**.
+I build robust backend systems and automate workflows with **Python**, deployed on **Linux/Docker** environments.
 
 ---
 
-## 🛠️ Expertise Technique
+## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-<!-- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) -->
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 🏗️ Domaines d'Intervention
+## 🏗️ What I Do
 
-* 🤖 **Automation :** Développement de scripts intelligents pour optimiser les tâches répétitives.
-* 🛡️ **File Management :** Création d'outils sécurisés pour l'organisation et le traitement de fichiers.
-* 📊 **Backend :** Conception de bases de données et de systèmes de gestion de données scalables.
+- **Backend Python** — Designing APIs, services, and data management systems
+- **Automation** — Scripts and pipelines to eliminate repetitive tasks
+- **Docker** — Containerization and application deployment
+- **Linux** — System administration and production environments
+
+---
+<!--
+## 📌 Pinned Projects
+
+- **[Project Name](https://github.com/masterdanil/project-repo)** — Short description of what it does
+- **[Project Name](https://github.com/masterdanil/project-repo)** — Short description of what it does
 
 ---
 
-## 🔥 Produit Phare : AutoFile Sorter
-Un moteur d'organisation automatique qui gère plus de 598 types de fichiers. C'est l'aboutissement de mon expertise en logique algorithmique appliquée aux systèmes de fichiers.
+## 📫 Contact
 
-💰 **Disponible sur :** [![Gumroad](https://img.shields.io/badge/Gumroad-36a9ae?style=for-the-badge&logo=gumroad&logoColor=white)](https://masterdanilson.gumroad.com/l/jyuorxc)
-
----
-
-## 📊 Statistiques GitHub
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=masterdanil&show_icons=true&theme=tokyonight&count_private=true" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masterdanil&layout=compact&theme=tokyonight&count_private=true" />
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio-url.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 ---
-
-## 📫 Me contacter
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](TON_LIEN_LINKEDIN)
-[![Gumroad](https://img.shields.io/badge/Gumroad-36a9ae?style=for-the-badge&logo=gumroad&logoColor=white)](https://masterdanilson.gumroad.com/)
-
----
-*“Automatiser le présent pour libérer le futur.”*
+-->
+*Clean code. Reliable systems. Smart automation.*
